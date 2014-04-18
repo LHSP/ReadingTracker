@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReadingTracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="loremDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis risus lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et purus a dolor gravida consequat ac ut massa. Cras porttitor nunc felis, vitae pharetra turpis vehicula eu. Vivamus viverra molestie erat in gravida. Integer suscipit eros a orci varius scelerisque. Morbi augue nunc, ullamcorper a blandit viverra, varius eu augue. Vestibulum ac eros ac elit laoreet interdum. Donec nec euismod elit. Nam porta sem tellus, iaculis dictum augue iaculis dictum. Cras id nulla eu purus congue dictum. Nulla porta diam quis est lacinia, in laoreet libero ultricies. Suspendisse aliquet magna ut placerat iaculis. Duis varius tortor quam, vel viverra orci facilisis eu. Vivamus quis fringilla odio.</string>
+    <string name="loremTitle">Lorem Ipsum</string>
+    <string name="add_new_publication">Add New Publication</string>
+
+</resources>
